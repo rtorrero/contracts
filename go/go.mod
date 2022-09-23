@@ -1,4 +1,4 @@
-module github.com/trento-project/contracts/go
+module github.com/rtorrero/contracts/go
 
 go 1.18
 
