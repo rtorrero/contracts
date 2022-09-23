@@ -1,4 +1,4 @@
-module github.com/rtorrero/contracts
+module github.com/rtorrero/contracts/golang
 
 go 1.18
 
